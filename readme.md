@@ -59,4 +59,3 @@ export function getRealmApp() {
 
 <img src="./src/assets/1.png" width="350" alt="1.png">
 <img src="./src/assets/data.png" width="650" alt="data.png">
-# MongodbRealm_sample_airbnb
