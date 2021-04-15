@@ -30,7 +30,7 @@ React Native app built with MongoDB sample data sample_airbnb and realm, the app
 
 2, if user is already registered, it automatically signs user in.
 
-2, fetches data from mongoDB atlas through realm with sample_airbnb (free tier).
+2, fetches data with realm sync from mongodb collections using the sample_airbnb data provided by MongoDB.
 
 3, has an account page which shows the user's id and allows user to log out.
 
@@ -59,3 +59,5 @@ export function getRealmApp() {
 
 <img src="./src/assets/1.png" width="350" alt="1.png">
 <img src="./src/assets/data.png" width="650" alt="data.png">
+
+## use this reference to further understand the setup https://developer.mongodb.com/how-to/querying-mongodb-browser-realm-react/
