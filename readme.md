@@ -60,4 +60,4 @@ export function getRealmApp() {
 <img src="./src/assets/1.png" width="350" alt="1.png">
 <img src="./src/assets/data.png" width="650" alt="data.png">
 
-## use this reference to further understand the setup https://developer.mongodb.com/how-to/querying-mongodb-browser-realm-react/
+#### use this reference to further understand the setup https://developer.mongodb.com/how-to/querying-mongodb-browser-realm-react/
