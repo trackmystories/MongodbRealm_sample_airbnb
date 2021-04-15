@@ -24,7 +24,7 @@ export default function Home() {
   return (
     <View>
       {listings.map(item => {
-        <ListItem address={item.address} />;
+        <ListItem address={/*...*/} />;
       })}
     </View>
   );
